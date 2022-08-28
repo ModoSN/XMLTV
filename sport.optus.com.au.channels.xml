@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="sport.optus.com.au">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="sport.optus.com.au">
   <channels>
     <channel update="i" site="sport.optus.com.au" site_id="os1" xmltv_id="Optus Sport 1">Optus Sport 1</channel>
     <channel update="i" site="sport.optus.com.au" site_id="os8" xmltv_id="Optus Sport 8">Optus Sport 8</channel>
@@ -12,4 +12,4 @@
     <channel update="i" site="sport.optus.com.au" site_id="OS104" xmltv_id="Optus Sport 104">Optus Sport 104</channel>
     <channel update="i" site="sport.optus.com.au" site_id="os6" xmltv_id="Optus Sport 6">Optus Sport 6</channel>
   </channels>
-</site>
+</tv>
